@@ -1,1 +1,9 @@
-
+{
+  "owner": {
+    "username": "riccardorizz",
+    "email": "riccardorizzato06@gmail.com"
+  },
+  "record": {
+    "CNAME": "example.com"
+  }
+}
